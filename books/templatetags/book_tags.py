@@ -5,4 +5,4 @@
 #
 # @register.filter
 # def to_lowercase(value):
-#     return value.upper()
+#     return value.lower()
